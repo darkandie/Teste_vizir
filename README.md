@@ -31,10 +31,12 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000/) do seu naveg
 **PONTOS A SEREM MELHORADOS**
 
 - Responsividade
+- Integração com um back-end
 
 **NOTAS ADICIONAIS**
 
 - O projeto é a apenas a página referente ao novo produto.
+- Projeto autoral.
 
 
 
