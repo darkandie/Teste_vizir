@@ -10,7 +10,7 @@
 - **CSS**
 - **REACT ROUTER**
 
-**LAYOU**
+**LAYOUT**
 
 - **FIGMA**
 
