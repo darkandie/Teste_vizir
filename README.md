@@ -1,8 +1,8 @@
 # <img src="C:\Users\carlo\Desktop\Teste_vizir\testevizir\public\favicon.png" style="zoom:25%;" />   TELZIR
 
+![image 1](https://user-images.githubusercontent.com/50087300/113649005-06358980-9664-11eb-9464-6ae0d67228b4.png)
 
 
-![](C:\Users\carlo\Desktop\image 1 (2).png)
 
 **TECNOLOGIAS E LIBS**
 
