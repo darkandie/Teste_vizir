@@ -10,7 +10,7 @@ const Footer = () => {
                 <img src="https://github.com/darkandie.png" alt=""/>
             </div>
             <div className = {styles.contacts}>
-                <h1>Desenvolvido por Carlos oliveira</h1>
+                <h1>Desenvolvido por Carlos Oliveira</h1>
                 <h2>Redes sociais e contatos</h2>
                 <a href="https://www.linkedin.com/in/carlos-oliveira-5745851b7" target="_blank">Linkedin</a>
                 <a href="https://github.com/darkandie" target="_blank">Github</a>

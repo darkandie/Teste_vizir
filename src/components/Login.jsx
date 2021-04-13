@@ -8,10 +8,10 @@ const Login2 = () => {
     const [isActive, setIsActive] = useState (false)
 
     function toggleForm() {
-        if (isActive == false) {
+        if (isActive === false) {
             setIsActive(true)
         }
-        else if (isActive == true){
+        else if (isActive === true){
             setIsActive(false)
         }
         console.log(isActive)

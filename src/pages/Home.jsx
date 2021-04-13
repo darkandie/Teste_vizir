@@ -5,6 +5,8 @@ import NavBar from '../components/NavBar';
 import Header from '../components/Header';
 import Options from '../components/Options';
 import Footer from '../components/Footer'
+import Selected from '../components/SelectedOption'
+
 
 const Home = () => {
     return (
@@ -12,7 +14,8 @@ const Home = () => {
         <NavBar />
         <Header />
         <Options />
-        <Footer />
+        <Selected />
+        <Footer/>
     </>
     )
 }
