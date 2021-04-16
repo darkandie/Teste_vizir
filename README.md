@@ -29,10 +29,6 @@ O projeto refere-se a criação de uma página para web da empresa **TELZIR**, p
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000/) do seu navegador.
 
-**PONTOS A SEREM MELHORADOS**
-
-- Responsividade
-- Integração com um back-end
 
 **NOTAS ADICIONAIS**
 
